@@ -13,10 +13,12 @@ book:
     - index.qmd
     - colophon.ipynb
     - collection003.qmd
-    - paintings.ipynb
-    - video.ipynb
-    - sw-collection.ipynb
-  repo-url: https://github.com/NFDI4Culture/catalogue-003
+    - paintings_1.ipynb
+    - paintings_2.ipynb
+   # - paintings.ipynb
+   # - video.ipynb
+   # - sw-collection.ipynb
+  repo-url: https://github.com/inablu/catalogue-003
   repo-actions: [edit]
   downloads: [pdf]
   cover-image: https://raw.githubusercontent.com/NFDI4Culture/class-ADA-CP-pipeline/main/cover/cover-smallalt.jpg
