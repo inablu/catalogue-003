@@ -21,7 +21,8 @@ book:
   repo-url: https://github.com/inablu/catalogue-003
   repo-actions: [edit]
   downloads: [pdf]
-  cover-image: https://raw.githubusercontent.com/NFDI4Culture/class-ADA-CP-pipeline/main/cover/cover-smallalt.jpg
+  cover-image: https://www.wikidata.org/wiki/Q510144#/media/File:Sprengel_Museum.jpg
+
 
 # Quarto allows commenting using either Hypothesis or Utterances
 # https://quarto.org/docs/reference/projects/books.html#comments
